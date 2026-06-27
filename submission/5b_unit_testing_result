@@ -1,0 +1,11 @@
+# PASTE YOUR TERMINAL OUTPUT HERE (run inside IBM Skills Network Cloud IDE)
+
+# Command to run:
+# python3 -m unittest test_emotion_detection.py
+
+# Example expected output:
+# .....
+# ----------------------------------------------------------------------
+# Ran 5 tests in 2.345s
+#
+# OK

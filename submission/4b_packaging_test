@@ -1,0 +1,9 @@
+# PASTE YOUR TERMINAL OUTPUT HERE (run inside IBM Skills Network Cloud IDE)
+
+# Commands to run:
+# python3
+# >>> from EmotionDetection.emotion_detection import emotion_detector
+# >>> emotion_detector("I hate working long hours.")
+
+# Example expected output:
+# {'anger': 0.961011, 'disgust': 0.0036589363, 'fear': 0.002659756, 'joy': 0.005626016, 'sadness': 0.027044285, 'dominant_emotion': 'anger'}

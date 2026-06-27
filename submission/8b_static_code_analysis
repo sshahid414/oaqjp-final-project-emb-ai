@@ -1,0 +1,10 @@
+# PASTE YOUR TERMINAL OUTPUT HERE (run inside IBM Skills Network Cloud IDE)
+
+# Command to run:
+# pylint server.py
+
+# Example expected output (must show 10.00/10):
+# ************* Module server
+#
+# ------------------------------------
+# Your code has been rated at 10.00/10
