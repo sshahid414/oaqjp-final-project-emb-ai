@@ -1,10 +1,12 @@
-# Emotion Detection Application
+# oaqjp-final-project-emb-ai
 
-Final project for the IBM Coursera course **"Developing AI Applications with Python and Flask"**.
+## Final Project: Emotion Detection
+
+This is the **Final Project** for the IBM Coursera course **"Developing AI Applications with Python and Flask"**.
 
 ## Project Name
 
-**Emotion Detector**
+**Emotion Detector** — Final Project (oaqjp-final-project-emb-ai)
 
 ## Description
 
@@ -38,13 +40,13 @@ README.md
 ### Run unit tests
 
 ```bash
-python3 -m unittest test_emotion_detection.py
+python3.11 -m unittest test_emotion_detection.py
 ```
 
 ### Run the Flask web application
 
 ```bash
-python3 server.py
+python3.11 server.py
 ```
 
 Open `http://localhost:5000` in your browser.

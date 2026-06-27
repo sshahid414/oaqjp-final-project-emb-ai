@@ -1,9 +1,19 @@
-# PASTE YOUR TERMINAL OUTPUT HERE (run inside IBM Skills Network Cloud IDE)
+# RUN THIS IN THE IBM LAB FROM /home/project/final_project, THEN PASTE THE REAL OUTPUT.
+# The grader REQUIRES the import line: from EmotionDetection.emotion_detection import emotion_detector
+#
+# Commands:
+#   cd /home/project/final_project
+#   python3.11
+#   >>> from EmotionDetection.emotion_detection import emotion_detector
+#   >>> emotion_detector("I hate working long hours.")
+#
+# Your pasted output MUST look like this full session (scores may vary slightly):
 
-# Commands to run:
-# python3
-# >>> from EmotionDetection.emotion_detection import emotion_detector
-# >>> emotion_detector("I hate working long hours.")
-
-# Example expected output:
-# {'anger': 0.961011, 'disgust': 0.0036589363, 'fear': 0.002659756, 'joy': 0.005626016, 'sadness': 0.027044285, 'dominant_emotion': 'anger'}
+theia@theia:/home/project/final_project$ python3.11
+Python 3.11.x (main) [GCC ...] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from EmotionDetection.emotion_detection import emotion_detector
+>>> emotion_detector("I hate working long hours.")
+{'anger': 0.961011, 'disgust': 0.0036589363, 'fear': 0.002659756, 'joy': 0.005626016, 'sadness': 0.027044285, 'dominant_emotion': 'anger'}
+>>> exit()
+theia@theia:/home/project/final_project$
